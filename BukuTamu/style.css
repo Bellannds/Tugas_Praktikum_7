@@ -1,0 +1,54 @@
+/* Style untuk halaman */
+body {
+    background-color: #E1EEDD;
+  }
+  
+  /* Style untuk form */
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    padding-bottom: 45px;
+    background-color: #03001C;
+    border:none;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 50px;
+    border-radius: 30px;
+    box-shadow: 5px 7px 18px #000000;
+    color: #fff;
+
+
+  }
+  
+  /* Style untuk input dan textarea */
+  input[type="text"],
+  textarea {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 35px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #F0EEED;
+    
+  }
+  
+  /* Style untuk tombol submit */
+  input[type="submit"] {
+    float: right;
+    background-color: #443C68;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 35px;
+    
+    
+  }
+  
+
+    
+  
